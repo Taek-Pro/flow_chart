@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-10-02T10:30:42.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.141 Whale/3.15.136.29 Safari/537.36" version="20.4.0" etag="whA3PyOodWclBOa_6w07" type="github"><diagram id="uQJuTt2wDYCeTbLGCwRz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-02T11:17:56.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.141 Whale/3.15.136.29 Safari/537.36" etag="um72mGKqYVHIE61tDUnz" version="20.4.0" type="github">
+  <diagram id="uQJuTt2wDYCeTbLGCwRz" name="페이지-1">
+    <mxGraphModel dx="678" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5YihdoTBa4M99DpvbrVS-1" value="Research UNIX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-4" value="BSD 4.4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="48" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-6" value="Unix OS 초기 버전" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-7" value="BSD : Berkeley Sofware Distribution 이며, UNIX 계열이며, 계보의 대표적인 OS&lt;br&gt;Mach : 카네기 멜론 대학교에서 OS 연구를, 주로 분산 및 병렬 연산을 지원하기 위해 개발한 OS kernel" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="38" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YihdoTBa4M99DpvbrVS-1" target="5YihdoTBa4M99DpvbrVS-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="100" as="sourcePoint" />
+            <mxPoint x="90" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-9" value="NextStep 3.3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="99" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-11" value="NeXT 가 만든 컴퓨터에서 사용되는 OS 이며, Mach 및 BSD kernel 기반으로 만들어짐&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="94" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-13" value="Mach" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="48" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YihdoTBa4M99DpvbrVS-4" target="5YihdoTBa4M99DpvbrVS-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="38" as="sourcePoint" />
+            <mxPoint x="45" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5YihdoTBa4M99DpvbrVS-13" target="5YihdoTBa4M99DpvbrVS-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="78" as="sourcePoint" />
+            <mxPoint x="45" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="78" />
+              <mxPoint x="45" y="78" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YihdoTBa4M99DpvbrVS-1" target="5YihdoTBa4M99DpvbrVS-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="30" as="sourcePoint" />
+            <mxPoint x="55" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="45" y="30" />
+              <mxPoint x="160" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-23" value="Darwin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="148" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5YihdoTBa4M99DpvbrVS-9" target="5YihdoTBa4M99DpvbrVS-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="30" as="sourcePoint" />
+            <mxPoint x="170" y="58" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="45" y="130" />
+              <mxPoint x="160" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-25" value="Darwin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YihdoTBa4M99DpvbrVS-9" target="5YihdoTBa4M99DpvbrVS-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="78" as="sourcePoint" />
+            <mxPoint x="55" y="109" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="45" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-28" value="BSD 와 다른 자유 소프트웨어 프로젝트 뿐 아니라 NextSTEP 의 source 를 따라 Apple 에서 개발한 코드로 구성되어 있는&lt;br&gt;Open Source UNIX OS&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="138" width="600" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

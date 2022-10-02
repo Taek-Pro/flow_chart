@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-10-02T11:17:56.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.141 Whale/3.15.136.29 Safari/537.36" etag="um72mGKqYVHIE61tDUnz" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-02T11:43:59.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.141 Whale/3.15.136.29 Safari/537.36" etag="PFjvOQOyEidUaJXRzFp-" version="20.4.0" type="github">
   <diagram id="uQJuTt2wDYCeTbLGCwRz" name="페이지-1">
-    <mxGraphModel dx="678" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5YihdoTBa4M99DpvbrVS-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="200" width="830" height="640" as="geometry" />
+        </mxCell>
         <mxCell id="5YihdoTBa4M99DpvbrVS-1" value="Research UNIX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry width="90" height="20" as="geometry" />
         </mxCell>
@@ -26,7 +29,7 @@
           <mxGeometry y="99" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5YihdoTBa4M99DpvbrVS-11" value="NeXT 가 만든 컴퓨터에서 사용되는 OS 이며, Mach 및 BSD kernel 기반으로 만들어짐&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="94" width="440" height="30" as="geometry" />
+          <mxGeometry x="96" y="94" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5YihdoTBa4M99DpvbrVS-13" value="Mach" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="48" width="90" height="20" as="geometry" />
@@ -70,20 +73,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5YihdoTBa4M99DpvbrVS-25" value="Darwin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="90" height="20" as="geometry" />
+        <mxCell id="5YihdoTBa4M99DpvbrVS-28" value="BSD 와 다른 자유 소프트웨어 프로젝트 뿐 아니라 NextSTEP 의 source 를 따라 Apple 에서 개발한 코드로 구성되어 있는&lt;br&gt;Open Source UNIX OS&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="138" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5YihdoTBa4M99DpvbrVS-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YihdoTBa4M99DpvbrVS-9" target="5YihdoTBa4M99DpvbrVS-25">
+        <mxCell id="5YihdoTBa4M99DpvbrVS-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.19;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5YihdoTBa4M99DpvbrVS-9" target="5YihdoTBa4M99DpvbrVS-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="78" as="sourcePoint" />
-            <mxPoint x="55" y="109" as="targetPoint" />
+            <mxPoint x="40" y="110" as="sourcePoint" />
+            <mxPoint x="180" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="45" y="170" />
+              <mxPoint x="45" y="180" />
+              <mxPoint x="160" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5YihdoTBa4M99DpvbrVS-28" value="BSD 와 다른 자유 소프트웨어 프로젝트 뿐 아니라 NextSTEP 의 source 를 따라 Apple 에서 개발한 코드로 구성되어 있는&lt;br&gt;Open Source UNIX OS&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="138" width="600" height="40" as="geometry" />
+        <mxCell id="5YihdoTBa4M99DpvbrVS-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5YihdoTBa4M99DpvbrVS-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="220" as="sourcePoint" />
+            <mxPoint x="160" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-41" value="&lt;b&gt;GUI (&quot;Aqua&quot;)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="710" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="http://tpholic.com/xe/?mid=ibmboard2&amp;page=3305&amp;document_srl=3667937" link="http://tpholic.com/xe/?mid=ibmboard2&amp;page=3305&amp;document_srl=3667937" id="5YihdoTBa4M99DpvbrVS-42">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="-190" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://ko.wikipedia.org/wiki/MacOS" link="https://ko.wikipedia.org/wiki/MacOS" id="5YihdoTBa4M99DpvbrVS-43">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="-160" width="220" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-44" value="https://en.wikipedia.org/wiki/Darwin_(operating_system)#/media/File:Diagram_of_Mac_OS_X_architecture.svg" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-210" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-47" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="710" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5YihdoTBa4M99DpvbrVS-48" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;API&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="250" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
